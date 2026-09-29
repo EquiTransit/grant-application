@@ -24,8 +24,8 @@ By:
   Logistics](https://mitl.mcmaster.ca), McMaster University, Canada)  
 - Antonio Páez (PI) ([School of Earth, Environment and
   Society](https://sees.mcmaster.ca), McMaster University, Canada)  
-- Rafael H.M. Pereira ([IPEA](https://www.urbandemographics.org/about/),
-  Brazil)  
+- Rafael H.M. Pereira (Collaborator)
+  ([IPEA](https://www.urbandemographics.org/about/), Brazil)  
 - Léa Ravensbergen (Co-applicant) ([School of Earth, Environment and
   Society](https://sees.mcmaster.ca), McMaster University, Canada)
 
